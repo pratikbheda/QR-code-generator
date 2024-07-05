@@ -1,1 +1,1 @@
-# QR-code-generator
+#MINOR PROJECTS
